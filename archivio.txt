@@ -1,0 +1,24 @@
+Matricola: 345655
+Nome: Mario
+Cognome: Rossi
+Esami: [('544MM', 23)]
+Note: note
+
+Matricola: 528611
+Nome: Luigi
+Cognome: Bianchi
+Esami: [('564GG', 18)]
+Note: 
+
+Matricola: 232526
+Nome: Lucia
+Cognome: Piazza
+Esami: []
+Note: 
+
+Matricola: 345654
+Nome: Maria
+Cognome: Rossi
+Esami: [('444GG', 30), ('564GG', 20)]
+Note: 
+
